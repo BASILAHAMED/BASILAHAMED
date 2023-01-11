@@ -12,7 +12,6 @@ Hi there, I'm Basil Ahamed, a certified Automation Tester with a passion for tes
 🏆 2023 Goals: Contribute more to Open Source Projects
 
 📫 How to reach me sbasil.ahamed@gmail.com
-⚡ Fun fact ** Mandala Artist🎨, INTJ. **
 
 Connect with me:
 instagram @basil_hameed_
