@@ -6,7 +6,7 @@
 
 - 💻 I got certified in "Selenium with Python" from IITM and Guvi Geeks
 - 🌱 I’m currently learning **Web development**
-- 💬 Ask me about **Automation testing techniques**
+- 💬 Ask me about **Automation testing tools and techniques**
 - 🏆 2023 Goals: Contribute more to AI Testing.
 - 📫 How to reach me **sbasil.ahamed@gmail.com**
 - ⚡ Fun fact ** Professor **
