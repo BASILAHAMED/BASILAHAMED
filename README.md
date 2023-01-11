@@ -5,7 +5,7 @@ Hi there, I'm Basil Ahamed, a certified Automation Tester with a passion for tes
 
 💻 I got certified on "Selenium with Python Automation Testing" from IITM and Guvi Geeks Pvt.Ltd
 
-🌱 I’m currently learning DSA
+🌱 I’m currently learning web development
 
 💬 Ask me about testing with automation tools
 
