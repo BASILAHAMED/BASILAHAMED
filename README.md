@@ -1,5 +1,5 @@
 <h1 align="center">Hello Geeks👋!</h1>
-<h3 align="center">Hi there 🙆‍♀️, I'm Basil, a automation tester with a passion for web automation and development.</h3>
+<h3 align="center">Hi there, I'm Basil, a automation tester with a passion for web automation and development.</h3>
 
 
 <h3>🧐 Some Things About Me</h3>
