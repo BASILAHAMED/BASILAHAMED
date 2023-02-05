@@ -4,7 +4,7 @@
 
 <h3>🧐 Some Things About Me</h3>
 
-- 💻 I got certified in "Selenium with Python" from IITM and Guvi Geeks
+- 💻 Certified in "Selenium with Python" from IITM and Guvi Geeks
 - 🌱 I’m currently learning **Web development**
 - 💬 Ask me about **Automation testing tools and techniques**
 - 🏆 2023 Goals: Contribute more to AI Testing.
