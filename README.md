@@ -5,7 +5,7 @@
 <h3>🧐 Some Things About Me</h3>
 
 - 💻 Certified in "Automation and Testing Program" from IITM and Guvi Geeks
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Cloud Automation**
 - 💬 Ask me about **Automation testing tools and techniques**
 - 🏆 2023 Goals: Contribute more to AI Testing.
 - 📫 How to reach me **sbasil.ahamed@gmail.com**
