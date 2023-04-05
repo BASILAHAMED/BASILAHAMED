@@ -1,8 +1,6 @@
 <h3 align="center">Hi there, I'm Basil, an Automation Developer with a passion for web automation testing and development.</h3>
 
 
-<h3>🧐 Some Things About Me</h3>
-
 - 💻 Certified in "Automation and Testing Program" from IITM and Guvi Geeks
 - 🌱 I’m currently learning **Cloud Automation**
 - 💬 Ask me about **Automation testing tools and techniques**
