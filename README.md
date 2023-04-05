@@ -1,4 +1,3 @@
-<h1 align="center">Greetings👍</h1>
 <h3 align="center">Hi there, I'm Basil, an Automation Developer with a passion for web automation testing and development.</h3>
 
 
