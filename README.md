@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Basil, an Automation Developer with a passion for automation testing and development.</h3>
+<h3 align="center">Hi there, I'm Basil, Python Developer with a passion for automation testing and development.</h3>
 
 
 - 💻 Certified in "Automation and Testing Program" from IITM and Guvi Geeks
