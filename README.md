@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<h1 align="left">sbasil.ahamed@gmail.com</h1>
+<h2 align="left">sbasil.ahamed@gmail.com</h2>
 
 
 ### Languages and Tools:
