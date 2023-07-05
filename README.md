@@ -1,32 +1,19 @@
-<h3 align="center">Hi there, I'm Basil, Automation Developer with a passion for test script development.</h3>
+# 💫 About Me:
+I'm Basil Ahamed, Automation Developer & Content Creator.<br>🌱 Currently, developing automation scripts 💙<br>🔭 Certified by IIT Madras and GUVI<br>Lifetime learner, currently learning cloud automation 💙<br>Let's talk about automation technologies
 
 
-- 💻 Certified in "Automation and Testing Program" from IITM and Guvi Geeks
-- 🌱 I’m currently learning **Cloud Automation**
-- 💬 Ask me about **Automation testing tools and techniques**
-- 🏆 2023 Goals: Contribute more to AI Testing.
-- 📫 How to reach me **sbasil.ahamed@gmail.com**
-- ⚡ Fun fact ** Professor **
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SE](https://img.shields.io/badge/-SELENIUM-CB02A?style=plastic&logo=selenium&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/JENKINS-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BASILAHAMED&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BASILAHAMED&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BASILAHAMED&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<h2 align="left">sbasil.ahamed@gmail.com</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BASILAHAMED&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=BASILAHAMED&icon=0&color=2)](https://visitcount.itsvg.in)
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<br />
-<br />
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
+ 
