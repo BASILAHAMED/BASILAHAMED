@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Basil Ahamed, Automation Engineer & Technical Content Creator.<br>🌱 Currently, developing automation scripts 💙<br>🔭 Certified by IIT Madras and GUVI Geek Network<br>Lifelong learner, currently learning cloud automation 💙<br>Let's talk about automation technologies
+I'm Basil Ahamed, Automation Engineer, Technical Content Creator & Mentor <br>Lifelong learner, currently learning AI Cloud Automation 💙<br>Let's talk about Automation Tech Stacks 💻
 
 
 
