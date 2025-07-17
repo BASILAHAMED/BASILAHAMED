@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello Geeks, 
-I'm Basil Ahamed, Automation Engineer, Technical Content Creator & Mentor <br>Lifelong learner, currently learning AI Cloud Automation | Automation Agents | Agentic AI 💙<br>Let's talk about Automation Tech Stacks 💻
+I'm Basil Ahamed, Automation Engineer, Technical Content Creator & Mentor <br>Lifelong learner, currently learning AI Cloud Automation | Automation Agents | Agentic AI 💙<br>Let's talk about Automation Techology 💻
 
 <div align="center">
   
